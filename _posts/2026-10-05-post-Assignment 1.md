@@ -2,6 +2,8 @@
 title: "A1"
 categories:
   - Blog
+header:
+teaser: /assets/images/chile.jpg
 tags:
   - Assignment
 ---
