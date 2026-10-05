@@ -2,9 +2,8 @@
 title: "Assignment 1"
 categories:
   - Blog
-Image preview:
 header:
-teaser: /assets/images/chile.jpg
+  teaser: /assets/images/chile.jpg
 tags:
   - assignment
 ---
