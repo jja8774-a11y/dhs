@@ -3,7 +3,7 @@ title: "Assignment 1"
 categories:
   - Blog
 header:
-teaser: /assets/images/chile.jpg
+  teaser: /assets/images/chile.jpg
 tags:
   - assignment
 ---
