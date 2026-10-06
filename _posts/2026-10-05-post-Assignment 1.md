@@ -24,7 +24,7 @@ height="600px"
 style="border:none;">
 </iframe>
 
-## Figure 1: Chilean Transportation Modes
+<p style="text-align: center; font-style: italic; color: gray;">Figure 1. Chilean Modes of Transportation.</p>
 
 A hundred years ago, Chile had a successful railroad ecosystem with hundreds of stations and millions of passengers. Past the 1970s, the Chilean rail industry was unable to survive without governmental support. As a result, most of the railroads closed down [(colaboradores de Wikipedia, 2026)](https://es.wikipedia.org/wiki/Historia_del_ferrocarril_en_Chile). The country currently has 11 active railway pathways run by EFE Trenes de Chile with less than 120 railroad stations; 8 of these networks focused on the relative centre and outskirts of the capital, and none extended to the north or had a continuous connection from centre to south [(Tren Rancagua – Estación Central – Servicio Y Trazado, n.d.)](https://www.efe.cl/nuestros-servicios/rancagua-estacion-central/servicio-y-trazado/). Besides, there are some trains of touristic nature, only running a few times per year [(Claro, 2026)](https://chileestuyo.cl/del-tren-del-recuerdo-a-los-paisajes-del-sur-guia-definitiva-para-viajar-por-chile-sobre-rieles/). But the subway system inside the capital, Santiago, and its outskirts is highly active. Surprisingly, the GeoNames railroad station data omitted Santiago's active metro stations. Instead, it mostly, if not entirely, mapped dead train stations. Such as Concordia in the deep south, which closed in 1990 [(colaboradores de Wikipedia, 2025)](https://es.wikipedia.org/wiki/Ramal_Corte_Alto-Los_Muermos). I found this was the case for many of the stations from the GeoNames dataset, which were either demolished or abandoned.
 
@@ -44,6 +44,9 @@ For further investigation, understanding how GeoNames processed the data present
 
 Mapping is a new language for me that allows for my ideas to go further. Communicating structural problems is not always easy, especially in words. Maps solve this problem and make complex ideas accessible. As a political science major in my final year, this can be fundamental if I go into governmental work. For example, this project on transportation in Chile made me realize EFE Trenes de Chile (Chilean National Railway)’s lack of visualization of their train routes on their website can be confusing. If they ever wanted to push forward and collaborate with any organizations to lobby for reinstating a railway connecting the capital to the deep south, they would first need to visualize their past and current rail stations. In that manner, citizens and organizations can visualize the impact such projects would have on their surroundings, rather than just hearing imaginary words and numbers.
 
-## Generative AI Statement
+> ### *Generative AI Statement*
+>
+> *I used Claude throughout this assignment for minor improvements and troubleshooting for my PositCloud map and Visual Studio code. I used Apple Intelligence for basic proofreading..*
 
-I used Claude throughout this assignment for minor improvements and troubleshooting for my PositCloud map and Visual Studio code. I used Apple Intelligence for basic proofreading.
+#<p style="color: red; font-weight: bold; font-size: 1.6em;">READY TO BE GRADED</p>
+
