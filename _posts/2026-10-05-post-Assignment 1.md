@@ -48,5 +48,5 @@ Mapping is a new language for me that allows for my ideas to go further. Communi
 >
 > *I used Claude throughout this assignment to fix punctuation, check my APA citations, get feedback on my draft, and troubleshoot my Posit Cloud map and the Visual Studio Code setup for this site. I used Apple Intelligence for basic proofreading. The research, analysis, and writing are my own.*
 
-#<p style="color: red; font-weight: bold; font-size: 1.6em;">READY TO BE GRADED</p>
+<p style="color: red; font-weight: bold; font-size: 1.6em;">READY TO BE GRADED</p>
 
