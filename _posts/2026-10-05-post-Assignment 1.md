@@ -18,7 +18,7 @@ How do Chileans move around in such a long country? Mostly through buses and air
 
 The GeoNames data misrepresents the reality of the transportation scene in Chile. Their dataset recorded 227 airports/airdomes, 415 railroad stations, and 4 bus stations. In reality, all of these figures are inaccurate and severely outdated in the case of railroads.
 
-<iframe src="{{ site.baseurl }}/assets/maps/CL_featuremap.html"
+<iframe src="{{ site.baseurl }}/assets/images/maps/CL_featuremap.html"
 width="100%"
 height="600px"
 style="border:none;">
